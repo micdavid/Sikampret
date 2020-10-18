@@ -7,5 +7,8 @@ class hewan :
     def jenis(self):
         return self.bulu
 
+    def bunyi(self):
+        return self.suara
+
 ironman=hewan("Putih", "Semongko", 10)
 print(ironman.jenis())

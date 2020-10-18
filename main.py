@@ -10,5 +10,5 @@ class hewan :
     def bunyi(self):
         return self.suara
 
-ironman=hewan("Putih", "Semongko", 10)
+ironman=hewan("Kuning", "Tarek sis", 9)
 print(ironman.jenis())
